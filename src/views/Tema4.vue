@@ -9,7 +9,7 @@
 
     .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
-        img(src="@/assets/curso/tema4/img_1.png", alt="Una mano sostiene un teléfono móvil frente a un datáfono de pago, en el contexto de una transacción electrónica.")
+        img(src="@/assets/curso/tema4/img_1.png", alt="")
       .bloque-texto-t__texto.color-primario-10.col-12.col-lg-10.mb-0
         p.mb-0 Las transacciones electrónicas constituyen uno de los procesos más importantes dentro del comercio electrónico, ya que permiten concretar la compra y venta de productos o servicios mediante medios digitales. Para garantizar operaciones seguras, ágiles y confiables, las organizaciones utilizan pasarelas de pago y sistemas de soporte transaccional que facilitan la comunicación entre compradores, vendedores y entidades financieras.
 
@@ -32,7 +32,7 @@
           img(
             src="@/assets/curso/tema4/img_2.png"
             class="img-fluid"
-            alt="Una mujer sonríe mientras sostiene una tarjeta de crédito frente a un computador portátil, con ilustraciones de un carrito de compras, cajas y una esfera del mundo rodeada de paquetes."
+            alt=""
           )
 
       .col-12.d-block.d-lg-none
@@ -97,7 +97,7 @@
                 |  Treli es una plataforma de tecnología financiera que ayuda a las empresas a automatizar sus procesos de facturación, cobro y gestión de suscripciones.
             .col-12.col-lg-2.d-none.d-lg-block.mb-0
               figure
-                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="Una mano sostiene un paquete que emerge de la pantalla de un teléfono móvil, representando la entrega de pedidos en el comercio electrónico.")
+                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")
 
     Separador
 
@@ -108,7 +108,7 @@
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema4/img_8.png')})`}"
         role="img"
-        aria-label="Una mujer sonríe mientras sostiene una taza y observa la pantalla de un computador portátil en una cafetería."
+        aria-label=""
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Existen diferentes tipos de pasarelas de pago, las cuales pueden clasificarse según la forma en que procesan las transacciones y la experiencia que ofrecen al usuario durante el proceso de compra. Cada una presenta características específicas relacionadas con la gestión del pago, la integración con la tienda virtual, el nivel de control del comercio y la seguridad de la información. Las más empleadas por las empresas de comercio digital son:
@@ -116,7 +116,7 @@
     .row.justify-content-center.align-items-start.mb-4
       .col-10.col-md-8.col-lg-3.mb-4.mb-lg-0(data-aos="flip-left")
         figure
-          img(src="@/assets/curso/tema4/img_9.png",, class="img-fluid" alt="Una mano sostiene un teléfono móvil mientras escribe en un computador portátil, con ilustraciones de un carrito de compras, cajas y monedas, en el contexto de una compra en línea.")
+          img(src="@/assets/curso/tema4/img_9.png",, class="img-fluid" alt="")
       .col-12.col-lg-9.mb-0(data-aos="flip-left")
         TabsA.color-acento-botones.mb-3.uno
           .tarjeta.color-primario-10.h-100.p-5(titulo="Pasarela redireccionada")
@@ -158,7 +158,7 @@
                 |  MercadoLibre ofrece a sus clientes diferentes medios de pago tales como tarjeta débito, tarjeta de crédito, entre otros, facilitando el pago de sus productos de una manera sencilla y eficiente.
             .col-12.col-lg-2.d-none.d-lg-block.mb-0
               figure
-                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="Una mano sostiene un paquete que emerge de la pantalla de un teléfono móvil, representando la entrega de pedidos en el comercio electrónico.")
+                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")
 
     Separador
 
@@ -190,12 +190,12 @@
           .row.justify-content-center.align-items-center.mb-4
             .col-3.col-lg-2.mb-4.mb-lg-0.d-none.d-lg-block(data-aos="fade-up")
               figure
-                img(src="@/assets/curso/tema4/img_12.svg", alt="Ícono de una persona con auriculares de atención al cliente y una herramienta, simbolizando el soporte tecnológico.")
+                img(src="@/assets/curso/tema4/img_12.svg", alt="")
             .col-12.col-lg-10
               p.mb-3 Son las actividades técnicas orientadas a garantizar el funcionamiento, mantenimiento y disponibilidad de los equipos, aplicaciones, redes y plataformas utilizadas en el comercio electrónico. Su propósito es prevenir y solucionar incidentes, optimizar el desempeño de los sistemas y asegurar la continuidad de las operaciones. Por otro lado, garantiza la continuidad operativa de los servicios transaccionales y la correcta integración con las plataformas de comercio electrónico.
       .col-12.col-md-10.col-lg-3.mb-0
         figure
-          img(src="@/assets/curso/tema4/img_13.png", class="img-fluid", alt="Un hombre con audífonos de atención al cliente sonríe frente a un computador portátil mientras sostiene un destornillador, con ilustraciones de un carrito de compras, cajas y monedas, simbolizando el soporte tecnológico.")
+          img(src="@/assets/curso/tema4/img_13.png", class="img-fluid", alt="")
     
     p.mb-4(data-aos="zoom-in-right") Entre las actividades de soporte se encuentran:
 
@@ -203,7 +203,7 @@
       .row.align-items-center
         .col-8.col-lg-3.d-none.d-lg-block.text-center
           figure
-            img.img-fluid(src="@/assets/curso/tema4/img_14.png", alt="Un servidor apilado junto a una nube con flechas de sincronización y una carpeta amarilla, simbolizando la actualización de sistemas.")
+            img.img-fluid(src="@/assets/curso/tema4/img_14.png", alt="")
         .col-12.col-lg-9
           .tarjeta.tarjeta--blanca.mb-0
             SlyderA.py-4.px-3(tipo="a")
@@ -236,7 +236,7 @@
                 |  Bold brinda soporte técnico a sus clientes para atender incidentes o fallas que puedan presentarse en su plataforma durante el procesamiento de transacciones financieras, garantizando la continuidad y confiabilidad del servicio.
             .col-12.col-lg-2.d-none.d-lg-block.mb-0
               figure
-                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="Una mano sostiene un paquete que emerge de la pantalla de un teléfono móvil, representando la entrega de pedidos en el comercio electrónico.")
+                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")
 
     Separador
 
@@ -246,7 +246,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-10.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
         figure
-          img.img-fluid(src="@/assets/curso/tema4/img_16.png", alt="Una mano sostiene un largo recibo o factura impresa, con ilustraciones de un carrito de compras, cajas y un camión de reparto en una calle.")
+          img.img-fluid(src="@/assets/curso/tema4/img_16.png", alt="")
       .col-12.col-lg-9
         p.mb-3(data-aos="zoom-in-right") La facturación electrónica es el proceso mediante el cual las organizaciones generan, transmiten y almacenan documentos tributarios en formato digital. Este mecanismo facilita el control de las operaciones comerciales y mejora la gestión administrativa de las empresas. En Colombia, la facturación electrónica forma parte de los procesos de transformación digital impulsados por la autoridad tributaria y constituye un requisito para múltiples actividades empresariales.
         .tarjeta.tarjeta--terciario-5.p-4(data-aos="zoom-in-right")
@@ -263,7 +263,7 @@
                 |  Servientrega dispone de un portal web que permite a los usuarios acceder y descargar electrónicamente sus facturas cuando estas han sido generadas y puestas a disposición por la organización.
             .col-12.col-lg-2.d-none.d-lg-block.mb-0
               figure
-                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="Una mano sostiene un paquete que emerge de la pantalla de un teléfono móvil, representando la entrega de pedidos en el comercio electrónico.")
+                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")
 
     .row.justify-content-center.mb-5.mt-4
       .col-12.col-lg-8
@@ -275,7 +275,7 @@
             .col-12.col-md-10.col-lg-10
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con pasarelas de pago y soporte transaccional:
+                  p.mb-0 A continuación, se invita a consultar el siguiente video para fortalecer los conocimientos relacionados con pasarelas de pago y soporte transaccional:
                 .col-sm-auto.text-center
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=XfAEtsoDCdI" target="_blank")
                     span Ir al recurso
@@ -300,9 +300,9 @@
         .tarjeta.tarjeta--fondo-img-03.py-3.px-5(data-aos="zoom-in-right")
           .row.align-items-center
             .col-8.col-lg-4.d-none.d-lg-block.mb-0
-              img(src="@/assets/curso/tema1/img_19.png", class="img-fluid", alt="Un micrófono retro de color amarillo sobre una base, representando el pódcast sugerido.")
+              img(src="@/assets/curso/tema1/img_19.png", class="img-fluid", alt="")
             .col-12.col-lg-8
-              h2.mb-5.text-white A continuación, se invita a ir al siguiente pódcast:
+              h2.mb-5.text-white A continuación, se invita a consultar el siguiente pódcast:
               TarjetaAudio.color-acento-contenido.p-4.mb-0(
                 texto="<span style='font-style: normal !important;'>Pasarelas de pago y experiencia del usuario en el comercio electrónico."
                 :audio="require_src('@/assets/curso/podcast/podcast_2.mp3')"

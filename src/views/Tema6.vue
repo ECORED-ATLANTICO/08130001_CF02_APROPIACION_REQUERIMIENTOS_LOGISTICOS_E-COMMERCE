@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-md-10.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
         figure
-          img.img-fluid(src="@/assets/curso/tema6/img_1.png", alt="Una mano sostiene un lápiz sobre unos documentos financieros, junto a una calculadora y un computador portátil.")
+          img.img-fluid(src="@/assets/curso/tema6/img_1.png", alt="")
       .col-12.col-lg-9
         .tarjeta.tarjeta--secundario-5.p-4(data-aos="zoom-in-right")
           p.mb-3 Las transacciones financieras constituyen uno de los procesos más sensibles dentro del comercio electrónico, debido a que involucran el intercambio de información económica y datos personales de los usuarios.
@@ -51,12 +51,12 @@
               |  un <em>software</em> malicioso registra las credenciales bancarias ingresadas por el usuario durante una compra.
       .col-8.col-lg-5(data-aos="fade-up")
         figure
-          img.img-fluid(src="@/assets/curso/tema6/img_2.png", alt="Una persona con capucha, guantes negros y una máscara blanca sostiene el cierre de su chaqueta, con ilustraciones de un globo terráqueo con paquetes y un carrito de compras alrededor.")
+          img.img-fluid(src="@/assets/curso/tema6/img_2.png", alt="")
 
     .tarjeta.tarjeta--fondo-img-01.p-2.p-md-4.px-3.p-lg-4.p-xl-5.mb-3(data-aos="zoom-in-right")
       .row.align-items-center
         .col-4.col-lg-3.d-none.d-lg-block.text-center
-          img.img-fluid(src="@/assets/curso/tema6/img_3.png", alt="Una carpeta amarilla con tarjetas dentro y un ícono de huella digital en un círculo azul oscuro, simbolizando la protección de información financiera.")
+          img.img-fluid(src="@/assets/curso/tema6/img_3.png", alt="")
         .col-12.col-lg-9
           .tarjeta.tarjeta--blanca.mb-0
             SlyderA.py-4.px-3(tipo="a")
@@ -98,7 +98,7 @@
                 |  empresas de <em>e-commerce</em> como Temu implementan estrategias de comunicación dirigidas a sus clientes para promover prácticas seguras de compra y prevenir posibles fraudes o estafas en entornos digitales.
             .col-12.col-lg-2.d-none.d-lg-flex.align-items-center.justify-content-center.mb-0
               figure.mb-0
-                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="Una mano sostiene un paquete que emerge de la pantalla de un teléfono móvil, representando la entrega de pedidos en el comercio electrónico.")
+                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")
 
     Separador
 
@@ -161,7 +161,7 @@
                 |  empresas como Mercado Libre implementan múltiples mecanismos de autenticación y validación de identidad con el fin de fortalecer la seguridad de las cuentas de usuario. Entre estos mecanismos se encuentran el reconocimiento facial, los códigos QR, las llaves de acceso y la verificación mediante teléfono móvil o correo electrónico.
             .col-12.col-lg-3.d-none.d-lg-flex.align-items-center.justify-content-center.mb-0
               figure.mb-0
-                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="Una mano sostiene un paquete que emerge de la pantalla de un teléfono móvil, representando la entrega de pedidos en el comercio electrónico.")
+                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")
 
     Separador
 
@@ -170,7 +170,7 @@
 
     .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
-        img(src="@/assets/curso/tema6/img_4.png", alt="Un dedo toca un panel holográfico de escaneo de huella digital, con líneas de código y datos digitales proyectados alrededor de una persona con capucha.")
+        img(src="@/assets/curso/tema6/img_4.png", alt="")
       .bloque-texto-t__texto.color-primario-10.col-12.col-lg-10.mb-0
         p.mb-0 El soporte asociado a la protección de transacciones financieras son las actividades orientadas a garantizar el funcionamiento continuo de los sistemas de seguridad implementados por la organización.
         p.mb-0 Estas actividades incluyen monitoreo permanente, actualización de aplicaciones, gestión de incidentes, mantenimiento preventivo, análisis de vulnerabilidades y recuperación de información ante posibles fallas o ataques informáticos.
@@ -187,7 +187,7 @@
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema6/img_5.png')})`}"
         role="img"
-        aria-label="Libros de derecho abiertos junto a un mazo de juez, una balanza de la justicia y una pluma, sobre un escritorio."
+        aria-label=""
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Son las disposiciones legales que regulan la realización de operaciones comerciales mediante medios digitales. Estas normas establecen los requisitos para garantizar la validez jurídica de las transacciones, la protección de la información, la seguridad de los pagos y los derechos de consumidores y comerciantes en el comercio electrónico; además de proteger a consumidores, empresas y entidades participantes en los procesos de comercio electrónico.
@@ -239,7 +239,7 @@
                 |  Mercado Libre cuenta con una política de tratamiento de datos personales, para la protección de la información de sus clientes.
             .col-12.col-lg-2.d-none.d-lg-flex.align-items-center.justify-content-center.mb-0
               figure.mb-0
-                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="Una mano sostiene un paquete que emerge de la pantalla de un teléfono móvil, representando la entrega de pedidos en el comercio electrónico.")
+                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")
 
     .row.justify-content-center.mb-5.mt-4
       .col-12.col-lg-8
@@ -251,7 +251,7 @@
             .col-12.col-md-10.col-lg-10
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con protección de transacciones financieras y cumplimiento normativo:
+                  p.mb-0 A continuación, se invita a consultar el siguiente video para fortalecer los conocimientos relacionados con protección de transacciones financieras y cumplimiento normativo:
                 .col-sm-auto.text-center
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=TPyJIfK1NT4" target="_blank")
                     span Ir al recurso

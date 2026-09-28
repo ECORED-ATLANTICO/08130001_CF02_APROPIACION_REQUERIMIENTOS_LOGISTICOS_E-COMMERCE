@@ -9,7 +9,7 @@
 
       .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
         .bloque-texto-t__img.mb-0
-          img(src="@/assets/curso/tema1/img_1.png", alt="Un hombre sonríe mientras revisa su teléfono móvil frente a un computador portátil abierto, en un ambiente doméstico; en las esquinas se representan, mediante ilustraciones, un datáfono con monedas y un ícono de un globo terráqueo con un paquete, simbolizando las transacciones y la logística en el comercio electrónico.")
+          img(src="@/assets/curso/tema1/img_1.png", alt="")
         .bloque-texto-t__texto.color-primario-10.col-12.col-lg-10.mb-0
           p.mb-0 Las operaciones de comercio electrónico requieren procesos organizados que garanticen la disponibilidad de los servicios digitales, la satisfacción del usuario y la continuidad de las transacciones. Para lograrlo, las organizaciones implementan mecanismos de gestión del servicio apoyados en infraestructura tecnológica, recursos humanos y procedimientos de soporte que permiten mantener el adecuado funcionamiento de las plataformas digitales.
 
@@ -21,7 +21,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-8.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
           figure
-            img.img-fluid(src="@/assets/curso/tema1/img_2.png", class="img-fluid", alt="Una asesora con diadema de atención telefónica sonríe frente a una pantalla, mientras a su alrededor se representan, mediante ilustraciones, un carrito de compras con paquetes y una esfera del mundo rodeada de cajas de envío, simbolizando la gestión del servicio y la logística en el comercio electrónico.")
+            img.img-fluid(src="@/assets/curso/tema1/img_2.png", class="img-fluid", alt="")
         .col-12.col-lg-9.mb-0
           p.mb-3(data-aos="zoom-in-right") La gestión del servicio corresponde al conjunto de actividades orientadas a planificar, ejecutar, supervisar y mejorar los servicios ofrecidos a clientes y usuarios mediante plataformas digitales. Su propósito principal es garantizar que los servicios respondan a las necesidades del mercado, cumplan los niveles de calidad establecidos y generen experiencias satisfactorias para los usuarios.
           p.mb-4(data-aos="zoom-in-right") En el contexto del comercio electrónico, la gestión del servicio abarca procesos relacionados con lo siguiente:
@@ -56,10 +56,10 @@
               .col-12.col-lg-10.mb-0
                 p.mb-0
                   strong Ejemplo:
-                  |  una plataforma global de <em>e-commerce</em> como Temu atiende consultas de manera rápida, informa oportunamente el estado de los pedidos y resuelve reclamaciones con eficiencia. De esta manera, logra una mejor experiencia de compra y aumenta la probabilidad de recompra por parte de sus clientes.
+                  |  una plataforma global de <em>e-commerce</em>, como Temu, atiende consultas de manera rápida, informa oportunamente el estado de los pedidos y resuelve reclamaciones con eficiencia. De esta manera, logra una mejor experiencia de compra y aumenta la probabilidad de recompra por parte de sus clientes.
               .col-12.col-lg-2.d-none.d-lg-block.mb-0
                 figure
-                  img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="Una mano sostiene un paquete que emerge de la pantalla de un teléfono móvil, representando la entrega de pedidos en el comercio electrónico.")
+                  img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")
 
       Separador
 
@@ -98,7 +98,7 @@
                 |  restablecimiento de la plataforma de pedidos después de una falla que impedía registrar nuevas compras.
         .col-8.col-lg-5(data-aos="fade-up")
           figure
-            img.img-fluid(src="@/assets/curso/tema1/img_5.png", alt="Una mujer escribe en su computador portátil mientras se representan, mediante ilustraciones, un carrito de compras con paquetes, una etiqueta de descuento, burbujas de chat y monedas, simbolizando la gestión y el soporte tecnológico del proceso de compra en línea.")
+            img.img-fluid(src="@/assets/curso/tema1/img_5.png", alt="")
 
       .row.justify-content-center.align-items-center.mb-0
         .col-12.col-lg-5.mb-3
@@ -112,7 +112,7 @@
                   |  una plataforma de ventas experimenta una falla durante una campaña promocional. En este caso, el equipo de soporte debe identificar la causa del problema, restablecer el servicio y minimizar el impacto sobre los clientes y las operaciones comerciales.
               .col-12.col-lg-2.d-none.d-lg-block.mb-0
                 figure
-                  img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="Una mano sostiene un paquete que emerge de la pantalla de un teléfono móvil, representando la entrega de pedidos en el comercio electrónico.")
+                  img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")
 
       Separador
 
@@ -121,7 +121,7 @@
 
       .row.align-items-center.mb-4
         .col-1.d-none.d-lg-block(data-aos="fade-up")
-          img.img-fluid(src="@/assets/curso/tema1/img_6.svg", alt="Ícono de un teléfono móvil con un pin de ubicación y un camión de reparto, simbolizando la infraestructura tecnológica y logística del comercio electrónico.")
+          img.img-fluid(src="@/assets/curso/tema1/img_6.svg", alt="")
         .col-12.col-lg-11
           p.mb-0(data-aos="zoom-in-right") La infraestructura tecnológica corresponde al conjunto de recursos físicos y digitales que permiten el funcionamiento de los sistemas de información y de las plataformas de comercio electrónico. Constituye la base tecnológica sobre la cual se desarrollan las operaciones digitales de una organización. Su integración permite almacenar, procesar, proteger e intercambiar información de manera segura, garantizando la disponibilidad de los servicios, la continuidad operativa y una gestión eficiente de las transacciones, los inventarios, los pedidos y la atención al cliente.
 
@@ -139,7 +139,7 @@
                   |  servidores, computadores, lectores de códigos de barras, impresoras de etiquetas y terminales portátiles utilizados en un centro de distribución.
               .col-md-12.col-lg-6
                 figure
-                  img.img-fluid(src="@/assets/curso/tema1/img_8.png", alt="Un hombre sostiene un computador portátil mientras revisa los servidores de un centro de datos con racks de equipos.")
+                  img.img-fluid(src="@/assets/curso/tema1/img_8.png", alt="")
             .row.align-items-center
               .col-md-12.col-lg-6.mb-4.mb-md-3
                 strong.d-block.fst-italic.mb-3(style="font-size: 18px") <em>Software</em>
@@ -149,7 +149,7 @@
                   |  plataforma de <em>e-commerce</em> integrada con un WMS, un ERP y un TMS para gestionar toda la operación logística.
               .col-md-12.col-lg-6
                 figure
-                  img.img-fluid(src="@/assets/curso/tema1/img_9.png", alt="Unas manos escriben en el teclado de un computador portátil cuya pantalla muestra un editor de código con líneas de programación.")
+                  img.img-fluid(src="@/assets/curso/tema1/img_9.png", alt="")
             .row.align-items-center
               .col-md-12.col-lg-6.mb-4.mb-md-3
                 strong.d-block.mb-3(style="font-size: 18px") Redes y conectividad
@@ -159,7 +159,7 @@
                   |  red Wi-Fi del almacén que conecta los dispositivos móviles de los operarios con el sistema de gestión de inventarios.
               .col-md-12.col-lg-6
                 figure
-                  img.img-fluid(src="@/assets/curso/tema1/img_10.png", alt="Un globo terráqueo conectado mediante líneas a varios íconos de candado que representan nodos de red protegidos, sobre un fondo digital azul.")
+                  img.img-fluid(src="@/assets/curso/tema1/img_10.png", alt="")
             .row.align-items-center
               .col-md-12.col-lg-6.mb-4.mb-md-3
                 strong.d-block.mb-3(style="font-size: 18px") Servicios en la nube
@@ -169,7 +169,7 @@
                   |  uso de Microsoft Azure, Amazon Web Services (AWS) o Google Cloud para alojar la tienda virtual y sus servicios.
               .col-md-12.col-lg-6
                 figure
-                  img.img-fluid(src="@/assets/curso/tema1/img_11.png", alt="Una mano toca un ícono de nube digital conectado a íconos de documento, usuario, dispositivo móvil y calculadora, representando el acceso a servicios en la nube.")
+                  img.img-fluid(src="@/assets/curso/tema1/img_11.png", alt="")
             .row.align-items-center
               .col-md-12.col-lg-6.mb-4.mb-md-3
                 strong.d-block.mb-3(style="font-size: 18px") Ciberseguridad
@@ -179,7 +179,7 @@
                   |  autenticación multifactorial, certificados SSL, <em>firewall</em> y copias de seguridad para proteger la plataforma de comercio electrónico.
               .col-md-12.col-lg-6
                 figure
-                  img.img-fluid(src="@/assets/curso/tema1/img_12.png", alt="Unas manos escriben en un computador portátil mientras se proyecta un holograma de un escudo de seguridad con datos binarios y paneles de verificación de identidad.")
+                  img.img-fluid(src="@/assets/curso/tema1/img_12.png", alt="")
             .row.align-items-center
               .col-md-12.col-lg-6.mb-4.mb-md-3
                 strong.d-block.mb-3(style="font-size: 18px") Dispositivos móviles e IoT
@@ -189,12 +189,12 @@
                   |  tabletas para alistamiento de pedidos, escáneres inalámbricos y sensores que monitorean la temperatura durante el transporte de mercancías.
               .col-md-12.col-lg-6
                 figure
-                  img.img-fluid(src="@/assets/curso/tema1/img_13.png", alt="Un escáner de código de barras lee la etiqueta de un paquete que contiene un código QR y un código de barras.")
+                  img.img-fluid(src="@/assets/curso/tema1/img_13.png", alt="")
 
       .row.justify-content-center.align-items-center.mb-0
         .col-10.col-md-8.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
           figure
-            img.img-fluid(src="@/assets/curso/tema1/img_14.png", alt="Una mujer habla por teléfono mientras sostiene un paquete frente a su computador portátil, en una oficina con estantes de cajas etiquetadas con códigos QR.")
+            img.img-fluid(src="@/assets/curso/tema1/img_14.png", alt="")
         .col-12.col-lg-9.mb-0
           p.mb-3(data-aos="zoom-in-right") Todos estos elementos trabajan de manera articulada para garantizar la disponibilidad y el rendimiento de los servicios digitales. La selección de una infraestructura adecuada depende de variables como el volumen de usuarios, la cantidad de transacciones, los niveles de seguridad requeridos y las proyecciones de crecimiento del negocio. Una infraestructura insuficiente puede generar lentitud, fallas operativas y pérdida de oportunidades comerciales.
           .tarjeta.tarjeta--terciario-5.p-4.mb-0(data-aos="zoom-in-right")
@@ -209,7 +209,7 @@
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/tema1/img_15.png')})`}"
           role="img"
-          aria-label="Una mujer con un lápiz cerca de la boca sostiene una taza mientras observa un monitor que proyecta hologramas de paneles de una interfaz de diseño UI/UX, con tarjetas, menús desplegables y un calendario."
+          aria-label=""
         )
         .bloque-texto-g__texto.p-4
           p.mb-0 Son las condiciones técnicas, funcionales y operativas necesarias para garantizar el uso adecuado, seguro y eficiente de una plataforma de comercio electrónico. Estos requerimientos definen las responsabilidades, permisos y recursos tanto de los administradores como de los usuarios, facilitando la gestión de la información, el control de las operaciones, la protección de los datos y una experiencia de compra satisfactoria. Los sistemas de comercio electrónico involucran diferentes perfiles de interacción, entre los cuales se destacan los administradores de la plataforma y los usuarios finales. Cada uno posee necesidades específicas que deben ser consideradas durante el diseño y operación de los sistemas. Entre los requerimientos más importantes se encuentran:
@@ -263,10 +263,9 @@
         .row.justify-content-center.align-items-center.mb-0
           .col-8.col-lg-1.mb-4.mb-lg-0.d-none.d-lg-block(data-aos="fade-up")
             figure
-              img.img-fluid(src="@/assets/curso/tema1/img_16.svg", alt="Ícono de un globo terráqueo rodeado de símbolos de información, representando el acceso a información y soporte dentro de la plataforma.")
+              img.img-fluid(src="@/assets/curso/tema1/img_16.svg", alt="")
           .col-12.col-lg-11.mb-0
             p.mb-0 Los administradores requieren herramientas que permitan gestionar productos, controlar inventarios, supervisar pedidos, administrar usuarios, generar reportes y monitorear indicadores de desempeño. Asimismo, necesitan mecanismos de seguridad que garanticen la integridad de la información y el control de accesos al sistema. Por su parte, los usuarios finales requieren plataformas intuitivas, tiempos de respuesta adecuados, facilidad de navegación, acceso seguro a la información y procesos de compra confiables. La experiencia del usuario se ha convertido en un factor determinante para la competitividad de las empresas que operan en entornos digitales.
-
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-10.mb-0
           .tarjeta.tarjeta--adicional-1.py-4.px-5.d-flex.align-items-center.justify-content-between(data-aos="zoom-in-right")
@@ -289,7 +288,7 @@
               .col-12.col-md-10.col-lg-10
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con estrategias de medios y comunicación digital:
+                    p.mb-0 A continuación, se invita a consultar el siguiente video para fortalecer los conocimientos relacionados con estrategias de medios y comunicación digital:
                   .col-sm-auto.text-center
                     a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=M-l7gVm69KI" target="_blank")
                       span Ir al recurso
@@ -316,9 +315,9 @@
           .tarjeta.tarjeta--fondo-img-03.py-3.px-5(data-aos="zoom-in-right")
             .row.align-items-center
               .col-8.col-lg-4.d-none.d-lg-block.mb-0
-                img(src="@/assets/curso/tema1/img_19.png", class="img-fluid", alt="Un micrófono retro de color amarillo sobre una base, representando el pódcast sugerido.")
+                img(src="@/assets/curso/tema1/img_19.png", class="img-fluid", alt="")
               .col-12.col-lg-8
-                h2.mb-5.text-white A continuación, se invita a ir al siguiente pódcast:
+                h2.mb-5.text-white A continuación, se invita a consultar el siguiente pódcast:
                 TarjetaAudio.color-acento-contenido.p-4.mb-0(
                   texto="<span style='font-style: normal !important;'>Seguridad digital en el <em>e-commerce</em>: protección de datos y transacciones seguras."
                   :audio="require_src('@/assets/curso/podcast/podcast_1.mp3')"

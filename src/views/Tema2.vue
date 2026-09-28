@@ -11,7 +11,7 @@
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema2/img_1.png')})`}"
         role="img"
-        aria-label="Un grupo de personas sonríe mientras observa una tableta que sostiene uno de ellos, mientras otra persona sostiene un vaso de café para llevar de color rojo."
+        aria-label=""
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 La comunicación digital constituye un elemento fundamental para el funcionamiento y crecimiento de los negocios en entornos electrónicos. A través de una adecuada estrategia de medios, las organizaciones pueden interactuar con clientes, promocionar productos y servicios, fortalecer su posicionamiento y generar relaciones de largo plazo con los usuarios.
@@ -23,7 +23,7 @@
 
     .row.align-items-center.mb-4
       .col-1.d-none.d-lg-block(data-aos="fade-up")
-        img.img-fluid(src="@/assets/curso/tema2/img_2.svg", alt="Ícono de un documento con lista de verificación y un camión de reparto, simbolizando la estrategia de medios y la comunicación en la logística del comercio electrónico.")
+        img.img-fluid(src="@/assets/curso/tema2/img_2.svg", alt="")
       .col-12.col-lg-11
         p.mb-0(data-aos="zoom-in-right") La estrategia de medios hace referencia a las acciones planificadas que una organización implementa para comunicar mensajes a su público objetivo mediante diferentes canales digitales. Su finalidad es garantizar que la información llegue a las personas adecuadas, en el momento oportuno y utilizando los medios más efectivos.
 
@@ -32,7 +32,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-8.col-lg-6.col-xl-4.mb-3(data-aos="fade-up")
         figure
-          img.img-fluid(src="@/assets/curso/tema2/img_3.png", alt="Una asesora con diadema de atención telefónica sonríe, mientras a su alrededor se representan, mediante ilustraciones, un carrito de compras con productos y una esfera del mundo rodeada de paquetes, simbolizando la estrategia de medios y la comunicación digital en el comercio electrónico.")
+          img.img-fluid(src="@/assets/curso/tema2/img_3.png", alt="")
       .col-12.col-lg-12.col-xl-8.mb-3
         SlyderF.circl-arrow.mb-0(columnas="col-lg-6")
           .tarjeta.tarjeta--blanca.border.shadow.p-4.mb-0
@@ -62,7 +62,7 @@
 
     .row.justify-content-center.align-items-center.mb-3
       .col-8.col-sm-2.col-lg-1.mb-4.mb-lg-0.d-none.d-lg-block(data-aos="fade-up")
-        img.img-fluid(src="@/assets/curso/tema2/img_8.svg", alt="Ícono de una tienda o local comercial, simbolizando el diseño de la estrategia de medios.")
+        img.img-fluid(src="@/assets/curso/tema2/img_8.svg", alt="")
       .col-12.col-lg-11
         .tarjeta.tarjeta--terciario-5.p-4(data-aos="zoom-in-right")
           p.mb-0 Su diseño debe estar alineado con las características del mercado, el comportamiento del consumidor y los recursos disponibles de la organización. Una estrategia de medios efectiva requiere definir objetivos claros, identificar segmentos de mercado, seleccionar canales adecuados y establecer indicadores que permitan evaluar los resultados obtenidos.
@@ -87,7 +87,7 @@
             p.mb-0 Ofrecen acceso rápido a la tienda virtual desde dispositivos móviles, mejorando la experiencia de compra mediante notificaciones, seguimiento de pedidos y funciones adaptadas a las necesidades del usuario.
       .col-8.col-lg-5(data-aos="fade-up")
         figure
-          img.img-fluid(src="@/assets/curso/tema2/img_9.png", alt="Una mano toca la pantalla de un teléfono móvil que muestra la palabra “Social Media” y una cuadrícula de aplicaciones, mientras a su alrededor flotan íconos de reacciones y aplicaciones digitales.")
+          img.img-fluid(src="@/assets/curso/tema2/img_9.png", alt="")
 
     .row.row-cols-1.row-cols-md-2.row-cols-lg-2.row-cols-xl-4.g-4.mb-5
       .col
@@ -132,7 +132,7 @@
                 |  empresas como Shopify permiten que las personas que comercializan sus productos amplíen su cobertura de ventas mediante el uso de canales sociales como Facebook y TikTok, entre otros.
             .col-12.col-lg-2.d-none.d-lg-block.mb-0
               figure
-                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="Una mano sostiene un paquete que emerge de la pantalla de un teléfono móvil, representando la entrega de pedidos en el comercio electrónico.")
+                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")
 
     Separador
 
@@ -144,42 +144,42 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-8.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
         figure
-          img.img-fluid(src="@/assets/curso/tema2/img_14.png", alt="Una persona sostiene una taza mientras escribe en un computador portátil que muestra el sitio web de alquiler de vehículos “Car for rent”.")
+          img.img-fluid(src="@/assets/curso/tema2/img_14.png", alt="")
       .col-12.col-lg-9.mb-0
         .tarjeta.tarjeta--fondo-img-01.p-2.p-md-4.px-3.p-lg-4.p-xl-5.mb-3(data-aos="zoom-in-right")
           .tarjeta.tarjeta--blanca.mb-0
             SlyderA.py-4.px-3(tipo="a")
-              .py-3.px-4.p-md-4.p-lg-3.p-xl-4
+              .py-3.px-4.p-md-4.p-lg-3.p-xl-5
                 h3.h5 Proveedores de internet (ISP)
                 p.mb-0 Proporcionan acceso a Internet para garantizar la conectividad de usuarios, empresas y plataformas, permitiendo la navegación, las compras en línea y la gestión de las operaciones digitales.
                 p.mb-0
                   strong Ejemplo:
                   |  Claro, Movistar o Tigo suministran la conexión utilizada para administrar una tienda virtual.
-              .py-3.px-4.p-md-4.p-lg-3.p-xl-4
+              .py-3.px-4.p-md-4.p-lg-3.p-xl-5
                 h3.h5 Alojamiento web
                 p.mb-0 Proporciona el espacio, los recursos tecnológicos y la infraestructura necesarios para almacenar y publicar un sitio web o una tienda virtual en Internet.
                 p.mb-0
                   strong Ejemplo:
                   |  Hostinger, GoDaddy o AWS (Amazon Web Services).
-              .py-3.px-4.p-md-4.p-lg-3.p-xl-4
+              .py-3.px-4.p-md-4.p-lg-3.p-xl-5
                 h3.h5 Proveedores de correo electrónico
                 p.mb-0 Permiten enviar y recibir mensajes relacionados con promociones, confirmaciones de compra, facturación electrónica y atención al cliente.
                 p.mb-0
                   strong Ejemplo:
                   |  Gmail, Outlook o Microsoft 365 envían la confirmación de una compra realizada.
-              .py-3.px-4.p-md-4.p-lg-3.p-xl-4
+              .py-3.px-4.p-md-4.p-lg-3.p-xl-5
                 h3.h5 Plataformas de videoconferencia
                 p.mb-0 Permiten realizar reuniones virtuales, demostraciones de productos, capacitaciones y atención personalizada cuando la comunicación requiere interacción en tiempo real.
                 p.mb-0
                   strong Ejemplo:
                   |  Microsoft Teams o Google Meet para presentar un nuevo catálogo a clientes empresariales.
-              .py-3.px-4.p-md-4.p-lg-3.p-xl-4
+              .py-3.px-4.p-md-4.p-lg-3.p-xl-5
                 h3.h5 Redes sociales
                 p.mb-0 Funcionan como canales de comunicación y promoción que fortalecen la interacción con los clientes, la difusión de contenidos y el posicionamiento de la marca.
                 p.mb-0
                   strong Ejemplo:
                   |  Facebook, Instagram o LinkedIn publican promociones y responden consultas de los usuarios.
-              .py-3.px-4.p-md-4.p-lg-3.p-xl-4
+              .py-3.px-4.p-md-4.p-lg-3.p-xl-5
                 h3.h5 Proveedores de servicios en la nube
                 p.mb-0 Ofrecen infraestructura y aplicaciones que soportan los sistemas de comunicación, almacenamiento y colaboración utilizados por las empresas de <em>e-commerce</em>.
                 p.mb-0
@@ -198,7 +198,7 @@
                 |  Hostinger es un proveedor global de alojamiento web (<em>hosting</em>) y registro de dominios que permite a empresas y particulares publicar y administrar fácilmente sus páginas web en Internet.
             .col-12.col-lg-2.d-none.d-lg-block.mb-0
               figure
-                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="Una mano sostiene un paquete que emerge de la pantalla de un teléfono móvil, representando la entrega de pedidos en el comercio electrónico.")
+                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")
 
     Separador
 
@@ -207,7 +207,7 @@
 
     .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
-        img(src="@/assets/curso/tema2/img_15.png", alt="Una persona escribe en un computador portátil que muestra un explorador de archivos, mientras en el escritorio hay una taza de café, galletas y un jarrón con flores.")
+        img(src="@/assets/curso/tema2/img_15.png", alt="")
       .bloque-texto-t__texto.color-primario-10.col-12.col-lg-10.mb-0
         p.mb-0 Los costos en las estrategias de medios y comunicación digital corresponden a la inversión necesaria para implementar, administrar y optimizar los canales, herramientas y plataformas utilizados para promocionar productos, fortalecer la comunicación con los clientes y alcanzar los objetivos comerciales. Su adecuada planificación permite seleccionar soluciones acordes con el presupuesto disponible, evaluar la relación entre costo y beneficio, y garantizar el uso eficiente de los recursos destinados a las acciones de <em>marketing</em> y comunicación digital.
 
@@ -216,7 +216,7 @@
     .row.row-cols-1.row-cols-lg-2.g-4.mb-5
       .col
         .tarjeta.tarjeta--secundario-5.border.shadow.overflow-hidden.h-100(data-aos="fade-up")
-          img.w-100.object-fit-cover(style="height: 260px; object-position: center;" src="@/assets/curso/tema2/img_16.png", alt="Un hombre sostiene un computador portátil con la bandeja de entrada de correo abierta, mientras otras dos personas conversan al fondo en una sala de reuniones.")
+          img.w-100.object-fit-cover(style="height: 260px; object-position: center;" src="@/assets/curso/tema2/img_16.png", alt="")
           .p-4
             h4 Tipo de servicio contratado
             p.mb-0 Determina el costo según las funcionalidades, herramientas y características incluidas en el plan seleccionado, como servicios básicos, profesionales o empresariales, de acuerdo con las necesidades de comunicación de la organización.
@@ -225,7 +225,7 @@
               |  una empresa contrata el plan profesional de Mailchimp para automatizar campañas de correo electrónico y acceder a funciones avanzadas de segmentación y análisis.
       .col
         .tarjeta.tarjeta--terciario-5.border.shadow.overflow-hidden.h-100(data-aos="fade-up")
-          img.w-100.object-fit-cover(style="height: 260px; object-position: center;" src="@/assets/curso/tema2/img_17.png", alt="Ilustración de íconos de WhatsApp, mensajes, contactos y llamadas sobre un fondo verde, representando la comunicación digital.")
+          img.w-100.object-fit-cover(style="height: 260px; object-position: center;" src="@/assets/curso/tema2/img_17.png", alt="")
           .p-4
             h4 Capacidad requerida
             p.mb-0 Corresponde al volumen de recursos necesarios para operar el servicio, considerando aspectos como número de usuarios, almacenamiento, envíos de mensajes, alcance de campañas o procesamiento de información.
@@ -234,7 +234,7 @@
               |  una tienda virtual adquiere un plan de WhatsApp Business Platform que permite atender miles de conversaciones mensuales con sus clientes.
       .col
         .tarjeta.tarjeta--primario-5.border.shadow.overflow-hidden.h-100(data-aos="fade-up")
-          img.w-100.object-fit-cover(style="height: 260px; object-position: center;" src="@/assets/curso/tema2/img_18.png", alt="Una persona sostiene una tableta que muestra una videollamada con otra persona, con los controles de cámara, micrófono y finalizar llamada visibles en pantalla.")
+          img.w-100.object-fit-cover(style="height: 260px; object-position: center;" src="@/assets/curso/tema2/img_18.png", alt="")
           .p-4
             h4 Nivel de soporte ofrecido
             p.mb-0 Influye en el costo de acuerdo con la disponibilidad, los canales de atención, los tiempos de respuesta y el acompañamiento técnico proporcionado por el proveedor durante la utilización del servicio.
@@ -243,7 +243,7 @@
               |  una empresa elige un plan de Microsoft Teams que incluye soporte técnico 24/7 para garantizar la continuidad de sus comunicaciones empresariales.
       .col
         .tarjeta.tarjeta--acento-contenido-5.border.shadow.overflow-hidden.h-100(data-aos="fade-up")
-          img.w-100.object-fit-cover(style="height: 260px; object-position: center;" src="@/assets/curso/tema2/img_19.png", alt="Dos personas observan juntas la pantalla de un computador de escritorio en una oficina.")
+          img.w-100.object-fit-cover(style="height: 260px; object-position: center;" src="@/assets/curso/tema2/img_19.png", alt="")
           .p-4
             h4 Condiciones establecidas por cada proveedor
             p.mb-0 Comprende las políticas comerciales, modalidades de contratación, periodos de pago, servicios incluidos, costos adicionales y demás términos definidos por el proveedor para la prestación del servicio.
@@ -261,7 +261,7 @@
                 |  Movistar es una empresa de telecomunicaciones que provee servicios de conectividad, tecnología y soluciones digitales para negocios, pymes y corporaciones. Su objetivo es actuar como un aliado estratégico en los procesos de transformación digital de las organizaciones.
             .col-12.col-lg-2.d-none.d-lg-block.mb-0
               figure
-                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="Una mano sostiene un paquete que emerge de la pantalla de un teléfono móvil, representando la entrega de pedidos en el comercio electrónico.")
+                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")
 
     Separador
 
@@ -270,7 +270,7 @@
 
     .row.align-items-center.mb-4
       .col-1.d-none.d-lg-block(data-aos="fade-up")
-        img.img-fluid(src="@/assets/curso/tema2/img_20.svg", alt="Ícono de una lupa con una flecha de crecimiento y un documento, simbolizando el análisis de indicadores clave de desempeño.")
+        img.img-fluid(src="@/assets/curso/tema2/img_20.svg", alt="")
       .col-12.col-lg-11
         p.mb-0(data-aos="zoom-in-right") Los indicadores clave de desempeño o <em>Key Performance Indicators</em> (KPI) son métricas utilizadas para medir la eficacia de las estrategias de comunicación digital y el cumplimiento de los objetivos organizacionales. Su propósito consiste en proporcionar información objetiva para apoyar la toma de decisiones y promover la mejora continua.
 
@@ -294,7 +294,7 @@
                 |  la empresa Google a través de la herramienta Google Analytics permite conocer el número de visitas en un sitio web determinado.
             .col-12.col-lg-2.d-none.d-lg-block.mb-0
               figure
-                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="Una mano sostiene un paquete que emerge de la pantalla de un teléfono móvil, representando la entrega de pedidos en el comercio electrónico.")
+                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")
 
     .row.justify-content-center.mb-0
       .col-12.col-lg-8

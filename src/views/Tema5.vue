@@ -11,7 +11,7 @@
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema5/img_1.png')})`}"
         role="img"
-        aria-label="Una mujer sonríe mientras sostiene un teléfono móvil frente a un computador, en una bodega con cajas de cartón apiladas."
+        aria-label=""
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 La calidad del servicio constituye un factor determinante para el éxito de las operaciones de comercio electrónico. Los usuarios esperan plataformas seguras, funcionales, rápidas y fáciles de utilizar. Para garantizar estos atributos, las organizaciones implementan procesos de evaluación y control mediante diferentes tipos de pruebas, que permiten verificar el desempeño de los sistemas antes y durante su funcionamiento.
@@ -23,7 +23,7 @@
 
     .row.align-items-center.mb-4
       .col-8.col-sm-2.col-lg-1.mb-4.mb-lg-0.d-none.d-lg-block(data-aos="fade-up")
-        img.img-fluid(src="@/assets/curso/tema5/img_2.svg", alt="Ícono de un computador con un carrito de compras en la pantalla, simbolizando las pruebas de servicio en el comercio electrónico.")
+        img.img-fluid(src="@/assets/curso/tema5/img_2.svg", alt="")
       .col-12.col-lg-11
         p.mb-0(data-aos="zoom-in-right") Las pruebas de servicio son procedimientos diseñados para verificar que los servicios, aplicaciones y procesos de una plataforma de comercio electrónico funcionen correctamente antes y durante su operación. Su propósito es identificar errores, validar el cumplimiento de los requerimientos, garantizar la disponibilidad de los servicios y ofrecer una experiencia de compra segura, confiable y eficiente para los usuarios. Entre las principales pruebas tenemos:
 
@@ -80,7 +80,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-md-12.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
         figure
-          img.img-fluid(src="@/assets/curso/tema5/img_3.png", alt="Una mujer sostiene una tarjeta y un teléfono móvil frente a un computador portátil que muestra el sitio web de una tienda de moda con productos en oferta.")
+          img.img-fluid(src="@/assets/curso/tema5/img_3.png", alt="")
       .col-12.col-lg-9
         p.mb-3(data-aos="zoom-in-right") Las pruebas de interfaz se enfocan en evaluar los elementos visuales y funcionales con los cuales interactúan los usuarios dentro de una plataforma digital. Su propósito es verificar que la navegación, el diseño, los controles y la presentación de la información sean claros, consistentes y fáciles de utilizar, favoreciendo una experiencia de compra satisfactoria y reduciendo los errores durante la interacción.
         p.mb-0(data-aos="zoom-in-right") Durante estas pruebas se verifican aspectos relacionados con:
@@ -133,7 +133,7 @@
                   strong Ejemplo:
                   |  se comprueba que las fotografías de los productos carguen correctamente y mantengan una buena calidad en computadores y dispositivos móviles.
         .col-12.col-lg-4.d-none.d-lg-block.text-center
-          img.img-fluid(src="@/assets/curso/tema5/img_4.png", alt="Unas manos manipulan un panel de diseño de interfaz con herramientas de edición de texto, imagen y tipografía.")
+          img.img-fluid(src="@/assets/curso/tema5/img_4.png", alt="")
 
     p.mb-3(data-aos="zoom-in-right") Una interfaz adecuada facilita la interacción del usuario y mejora la experiencia de compra. Por el contrario, errores de navegación o diseños poco intuitivos pueden generar abandono de procesos y pérdida de oportunidades comerciales.
     p.mb-3(data-aos="zoom-in-right") Por ejemplo, si un botón de pago no funciona correctamente o resulta difícil de localizar, la organización puede experimentar disminución en la conversión de ventas.
@@ -145,7 +145,7 @@
 
     .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
-        img(src="@/assets/curso/tema5/img_6.png", alt="Un hombre con gafas y audífonos sonríe mientras sostiene una tableta, en un espacio exterior.")
+        img(src="@/assets/curso/tema5/img_6.png", alt="")
       .bloque-texto-t__texto.color-primario-10.col-12.col-lg-10.mb-0
         p.mb-0 Las pruebas de usuario permiten evaluar el comportamiento y la experiencia de las personas que interactúan con una plataforma digital. Estas pruebas se realizan con usuarios reales o grupos representativos del público objetivo para identificar dificultades de uso y oportunidades de mejora. Su finalidad consiste en determinar si los procesos son comprensibles, eficientes y satisfactorios desde la perspectiva del cliente. La información obtenida permite realizar ajustes orientados a optimizar la experiencia del usuario.
 
@@ -161,7 +161,7 @@
                 |  Amazon permite a los usuarios explorar la plataforma antes de iniciar sus actividades de venta, con el fin de familiarizarse con sus funcionalidades y procesos. Asimismo, dispone de mecanismos mediante los cuales los usuarios pueden enviar sugerencias, recomendaciones o comentarios para contribuir al mejoramiento continuo del servicio.
             .col-12.col-lg-2.d-none.d-lg-block.mb-0
               figure
-                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="Una mano sostiene un paquete que emerge de la pantalla de un teléfono móvil, representando la entrega de pedidos en el comercio electrónico.")
+                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")
 
     Separador
 
@@ -172,7 +172,7 @@
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema5/img_7.png')})`}"
         role="img"
-        aria-label="Una mujer con gafas sonríe mientras trabaja en un computador, con líneas de código y una red de conexiones digitales proyectadas alrededor."
+        aria-label=""
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Las pruebas del sistema corresponden a evaluaciones integrales orientadas a verificar el funcionamiento general de una plataforma tecnológica. Su propósito es asegurar que todos los componentes operen de manera coordinada y cumplan los requerimientos funcionales definidos por la organización.
@@ -182,7 +182,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-8.col-lg-6.col-xl-3.mb-4.mb-lg-0(data-aos="fade-up")
         figure
-          img.img-fluid(src="@/assets/curso/tema5/img_8.png", alt="Un hombre sonríe mientras sostiene un computador portátil, con ilustraciones de un globo terráqueo con paquetes y un carrito de compras a su alrededor.")
+          img.img-fluid(src="@/assets/curso/tema5/img_8.png", alt="")
       .col-12.col-lg-12.col-xl-9
         SlyderF.circl-arrow.mb-0(columnas="col-lg-6")
           .tarjeta.tarjeta--blanca.border.shadow.p-4

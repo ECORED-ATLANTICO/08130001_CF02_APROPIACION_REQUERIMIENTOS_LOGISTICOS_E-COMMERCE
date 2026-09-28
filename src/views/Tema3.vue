@@ -11,7 +11,7 @@
       .row.align-items-center.mb-0
         .col-8.col-sm-2.col-lg-1.mb-4.mb-lg-0.d-none.d-lg-block(data-aos="fade-up")
           figure
-            img.img-fluid(src="@/assets/curso/tema3/img_1.svg", alt="Ícono de un candado, simbolizando la protección de datos y la seguridad digital.")
+            img.img-fluid(src="@/assets/curso/tema3/img_1.svg", alt="")
         .col-12.col-lg-11
           p.mb-0 La transformación digital ha incrementado significativamente el volumen de información que las organizaciones recopilan, almacena y procesan diariamente. En este contexto, la protección de datos y la seguridad digital se convierten en factores esenciales para garantizar la confidencialidad, integridad y disponibilidad de la información, así como para fortalecer la confianza de los usuarios en los servicios digitales.
 
@@ -23,7 +23,7 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-10.col-md-8.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
         figure
-          img.img-fluid(src="@/assets/curso/tema3/img_2.png", alt="Unas manos escriben en un computador portátil mientras se proyecta un holograma de un candado de seguridad rodeado de íconos de documento, nube y carpeta, representando la protección de datos.")
+          img.img-fluid(src="@/assets/curso/tema3/img_2.png", alt="")
       .col-12.col-lg-9
         p.mb-3(data-aos="zoom-in-right") La protección de datos comprende el conjunto de medidas técnicas, administrativas y legales destinadas a garantizar el adecuado tratamiento de la información personal y empresarial. Su finalidad consiste en prevenir el acceso no autorizado, la pérdida, alteración o uso indebido de los datos. En el comercio electrónico, las organizaciones gestionan información relacionada con nombres, direcciones, correos electrónicos, números telefónicos, hábitos de compra y medios de pago de los clientes. Debido a la sensibilidad de estos datos, resulta indispensable implementar mecanismos que garanticen su seguridad y confidencialidad.
         .tarjeta.tarjeta--terciario-5.p-4(data-aos="zoom-in-right")
@@ -39,7 +39,7 @@
                 |  cuando un cliente realiza una compra en línea, espera que la empresa proteja su información personal y financiera frente a posibles riesgos o amenazas informáticas. Falabella cuenta con una política de datos personales, con la cual garantizan que el manejo de información personal se realiza de forma legal, segura y transparente.
             .col-12.col-lg-2.d-none.d-lg-block.mb-0
               figure
-                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="Una mano sostiene un paquete que emerge de la pantalla de un teléfono móvil, representando la entrega de pedidos en el comercio electrónico.")
+                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")
 
     Separador
 
@@ -50,7 +50,7 @@
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3/img_3.png')})`}"
         role="img"
-        aria-label="Una mano toma un disco de madera con un ícono de verificación, ubicado junto a otros tres discos con íconos de documento, documento con lápiz y documento con verificación."
+        aria-label=""
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 La gestión de datos personales se encuentra regulada por diversas disposiciones legales que establecen derechos, obligaciones y responsabilidades para las organizaciones que recopilan y procesan información. Estas normas buscan garantizar la privacidad de los usuarios, proteger sus derechos y promover el tratamiento responsable de la información por parte de las organizaciones.
@@ -175,7 +175,7 @@
                 |  los ataques de <em>phishing</em> buscan engañar a los usuarios para obtener información confidencial como contraseñas, datos bancarios o información personal mediante mensajes o sitios web fraudulentos.
             .col-12.col-lg-2.d-none.d-lg-block.mb-0
               figure
-                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="Una mano sostiene un paquete que emerge de la pantalla de un teléfono móvil, representando la entrega de pedidos en el comercio electrónico.")
+                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")
 
     Separador
 
@@ -184,7 +184,7 @@
 
     .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
-        img(src="@/assets/curso/tema3/img_5.png", alt="Una mano toca un carrito de compras holográfico que emerge de un globo terráqueo con líneas de conexión, junto a íconos de camión de reparto, dinero, teléfono móvil y megáfono, sobre un fondo azul.")
+        img(src="@/assets/curso/tema3/img_5.png", alt="")
       .bloque-texto-t__texto.color-primario-10.col-12.col-lg-10.mb-0
         p.mb-0 Son los requerimientos, recursos y procedimientos necesarios para garantizar el funcionamiento, la disponibilidad y la continuidad de las plataformas de comercio electrónico. Estos requerimientos permiten administrar los servicios tecnológicos, atender incidentes, realizar mantenimiento, controlar el acceso a los sistemas y brindar soporte oportuno a los usuarios, contribuyendo a la seguridad, estabilidad y eficiencia de las operaciones digitales.
 
@@ -203,18 +203,18 @@
             p.mb-0 Genera respaldos periódicos de la información para facilitar su recuperación ante fallas técnicas, pérdida de datos o incidentes que afecten la continuidad de las operaciones.
       .col-8.col-lg-5(data-aos="fade-up")
         figure
-          img.img-fluid(src="@/assets/curso/tema3/img_6.png", alt="Un computador portátil muestra una maqueta de publicación de Instagram, mientras a su alrededor se representan un globo terráqueo con paquetes, un carrito de compras y una calle con un camión de reparto.")
+          img.img-fluid(src="@/assets/curso/tema3/img_6.png", alt="")
 
     .row.row-cols-1.row-cols-md-1.row-cols-lg-2.g-4.mb-5
       .col
         .tarjeta.tarjeta--secundario-5.border.shadow.overflow-hidden.h-100(data-aos="fade-up")
-          img.w-100.object-fit-cover(style="height: 220px; object-position: center;" src="@/assets/curso/tema3/img_7.png", alt="Un hombre sostiene un teléfono móvil mientras en un panel holográfico se muestran un candado con una marca de verificación y un campo de contraseña.")
+          img.w-100.object-fit-cover(style="height: 220px; object-position: center;" src="@/assets/curso/tema3/img_7.png", alt="")
           .p-4
             h4 Implementación de mecanismos de autenticación
             p.mb-0 Aplica procedimientos para verificar la identidad de los usuarios antes de permitir el acceso a la plataforma, fortaleciendo la seguridad de la información y las transacciones.
       .col
         .tarjeta.tarjeta--terciario-5.border.shadow.overflow-hidden.h-100(data-aos="fade-up")
-          img.w-100.object-fit-cover(style="height: 220px; object-position: center;" src="@/assets/curso/tema3/img_8.png", alt="Un hombre toca un ícono holográfico de candado junto a un panel de inicio de sesión con campos de usuario y contraseña.")
+          img.w-100.object-fit-cover(style="height: 220px; object-position: center;" src="@/assets/curso/tema3/img_8.png", alt="")
           .p-4
             h4 Control de accesos
             p.mb-0 Regula el ingreso y uso de los recursos tecnológicos mediante permisos y restricciones, asegurando que cada usuario acceda únicamente a la información y funciones autorizadas.
@@ -223,7 +223,7 @@
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3/img_9.png')})`}"
         role="img"
-        aria-label="Unas manos escriben en un teclado mientras se proyecta un holograma de un carrito de compras junto a íconos de candado y datos digitales, en tonos turquesa."
+        aria-label=""
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 También resulta importante establecer procedimientos para la atención de incidentes de seguridad, recuperación de información y gestión de riesgos tecnológicos. Estas actividades permiten minimizar vulnerabilidades y responder oportunamente ante posibles amenazas. La combinación de medidas técnicas y administrativas fortalece la protección de los datos y contribuye a garantizar la seguridad de las operaciones desarrolladas en entornos de comercio electrónico.
@@ -238,7 +238,7 @@
                 |  algunas compañías implementan medidas de autenticación y seguridad de Google a través de la solución de Google Cloud, la cual verifica quien está intentando acceder (el usuario o la aplicación) y determina qué recursos puede utilizar y qué acciones puede realizar una vez verificada su identidad.
             .col-12.col-lg-2.d-none.d-lg-block.mb-0
               figure
-                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="Una mano sostiene un paquete que emerge de la pantalla de un teléfono móvil, representando la entrega de pedidos en el comercio electrónico.")
+                img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")
 
     .row.justify-content-center.mb-5.mt-5
       .col-12.col-lg-8
@@ -250,7 +250,7 @@
             .col-12.col-md-10.col-lg-10
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 A continuación, se invita a ir al siguiente video para fortalecer los conocimientos relacionados con protección de datos y seguridad digital:
+                  p.mb-0 A continuación, se invita a consultar el siguiente video para fortalecer los conocimientos relacionados con protección de datos y seguridad digital:
                 .col-sm-auto.text-center
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=_sjIHKMeeeg" target="_blank")
                     span Ir al recurso

@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Tecnología y transacciones en <em>e-commerce</em>',
     Description:
-      'El componente formativo desarrolla competencias relacionadas con la gestión del servicio, soporte tecnológico y administración de transacciones digitales en operaciones de comercio electrónico. Asimismo, fortalece la capacidad para seleccionar medios de comunicación, gestionar pasarelas de pago, proteger datos y transacciones financieras, aplicar pruebas de servicio y garantizar el cumplimiento normativo. Lo anterior contribuye al mejoramiento de la experiencia del usuario, la seguridad de la información y la eficiencia de los procesos digitales.',
+      'El componente formativo desarrolla competencias relacionadas con la gestión del servicio, soporte tecnológico y administración de transacciones digitales en operaciones de comercio electrónico. Asimismo, fortalece la capacidad para seleccionar medios de comunicación, gestionar pasarelas de pago, proteger los datos y transacciones financieras, aplicar pruebas de servicio y garantizar el cumplimiento normativo. Lo anterior contribuye al mejoramiento de la experiencia del usuario, la seguridad de la información y la eficiencia de los procesos digitales.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
