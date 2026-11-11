@@ -20,7 +20,7 @@
     .row.justify-content-center.align-items-center.mt-5           
       .col-md-8.col-lg-3.mb-3
         figure
-          img(src="@/assets/curso/introduccion/img_2.png", class="img-fluid", alt="Una persona interactúa con un computador portátil que muestra una tienda virtual con productos de ropa, mientras a su alrededor se observan figuras de juguete tipo robot y contenedores que representan el proceso de compra y distribución en el comercio electrónico.")
+          img(src="@/assets/curso/introduccion/img_2.png", class="img-fluid", alt="")
       .col-lg-9
         .row.justify-content-center.align-items-center
           .col-lg-12

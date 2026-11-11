@@ -66,7 +66,7 @@
       #t_1_2.titulo-segundo.color-acento-contenido
         .h2(data-aos="fade-right") 1.2 Soporte tecnológico
 
-      p.mb-4(data-aos="zoom-in-right") El soporte tecnológico integra los procesos, recursos y estrategias que permiten planificar, ejecutar y controlar el flujo de productos, información y servicios en el comercio electrónico. Su adecuada articulación favorece el abastecimiento, el almacenamiento, la preparación de pedidos, el transporte, la distribución y la atención al cliente, garantizando operaciones eficientes, entregas oportunas y una experiencia de compra alineada con las necesidades del mercado digital. Entre los procesos más comunes que se deben realizar para asegurar el funcionamiento eficiente y la continuidad de las operaciones, son:
+      p.mb-4(data-aos="zoom-in-right") El soporte tecnológico integra los procesos, recursos y estrategias que permiten planificar, ejecutar y controlar el flujo de productos, información y servicios en el comercio electrónico. Su adecuada articulación favorece plataformas, sistemas, redes, soporte, disponibilidad, incidentes, mantenimiento, actualización, monitoreo y continuidad garantizando operaciones eficientes, entregas oportunas y una experiencia de compra alineada con las necesidades del mercado digital. Entre los procesos más comunes que se deben realizar para asegurar el funcionamiento eficiente y la continuidad de las operaciones, son:
 
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-7.mb-4.mb-lg-0
@@ -219,7 +219,6 @@
         | Requerimientos de administrador y usuario
       .tabla-a.color_primario-20.mb-5(data-aos="zoom-in-right")
         table
-          caption Nota. SENA, (2026).
           thead
             tr
               th Requerimiento
@@ -276,23 +275,8 @@
                   |  empresas como Mercado Libre cuentan con plataformas intuitivas que permiten a los usuarios acceder fácilmente a los productos y realizar procesos de compra ágiles y eficientes.
               .col-12.col-lg-2.d-none.d-lg-block.mb-0
                 figure
-                  img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="Una mano sostiene un paquete que emerge de la pantalla de un teléfono móvil, representando la entrega de pedidos en el comercio electrónico.")
-
-      .row.justify-content-center.mb-5
-        .col-12.col-lg-8
-          .tarjeta.color-terciario-70.p-4(data-aos="zoom-in-right")
-            .row.justify-content-around.align-items-center
-              .col-6.col-md-2.col-lg-2.mb-3.mb-sm-0
-                figure
-                  img(src="@/assets/curso/tema1/img_17.svg")
-              .col-12.col-md-10.col-lg-10
-                .row.justify-content-between.align-items-center
-                  .col.mb-3.mb-sm-0
-                    p.mb-0 A continuación, se invita a consultar el siguiente video para fortalecer los conocimientos relacionados con estrategias de medios y comunicación digital:
-                  .col-sm-auto.text-center
-                    a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=M-l7gVm69KI" target="_blank")
-                      span Ir al recurso
-                      
+                  img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")
+                   
 
       .row.justify-content-center.mb-5
         .col-12.col-lg-8

@@ -57,7 +57,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La gestión del servicio busca garantizar la calidad y satisfacción del cliente durante las operaciones de comercio electrónico.',
+            'La gestión del servicio busca garantizar la calidad y satisfacción del cliente durante las operaciones de comercio electrónico.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -91,7 +91,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El soporte tecnológico permite garantizar la continuidad y disponibilidad de los servicios digitales.',
+            'El soporte tecnológico permite garantizar la continuidad y disponibilidad de los servicios digitales.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -112,7 +112,7 @@ export default {
             { id: 'd', texto: 'Manuales de ventas.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! Los servidores, redes y bases de datos son elementos esenciales de la infraestructura tecnológica.',
+            'Los servidores, redes y bases de datos son elementos esenciales de la infraestructura tecnológica.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -146,7 +146,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Una estrategia de medios facilita la selección de canales adecuados para llegar al público objetivo.',
+            'Una estrategia de medios facilita la selección de canales adecuados para llegar al público objetivo.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -175,7 +175,7 @@ export default {
             { id: 'd', texto: 'Estrategias promocionales.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! Los KPI permiten medir el desempeño y cumplimiento de los objetivos organizacionales.',
+            'Los KPI permiten medir el desempeño y cumplimiento de los objetivos organizacionales.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -207,7 +207,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La protección de datos garantiza la privacidad y seguridad de la información personal y empresarial.',
+            'La protección de datos garantiza la privacidad y seguridad de la información personal y empresarial.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -239,7 +239,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El acceso no autorizado a sistemas o información constituye un delito informático.',
+            'El acceso no autorizado a sistemas o información constituye un delito informático.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -267,7 +267,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Las pasarelas de pago permiten procesar y autorizar transacciones electrónicas de forma segura.',
+            'Las pasarelas de pago permiten procesar y autorizar transacciones electrónicas de forma segura.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -296,7 +296,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La facturación electrónica fortalece el control y la trazabilidad de las operaciones comerciales.',
+            'La facturación electrónica fortalece el control y la trazabilidad de las operaciones comerciales.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -330,7 +330,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La integración contable relaciona las operaciones comerciales con los procesos financieros de la organización.',
+            'La integración contable relaciona las operaciones comerciales con los procesos financieros de la organización.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -354,7 +354,7 @@ export default {
             { id: 'd', texto: 'Las ventas presenciales.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! Las pruebas de interfaz permiten verificar la interacción visual y funcional entre el usuario y el sistema.',
+            'Las pruebas de interfaz permiten verificar la interacción visual y funcional entre el usuario y el sistema.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -375,7 +375,7 @@ export default {
             { id: 'd', texto: 'Eliminar indicadores.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! Las pruebas de usuario permiten verificar que la plataforma satisfaga las necesidades del cliente final.',
+            'Las pruebas de usuario permiten verificar que la plataforma satisfaga las necesidades del cliente final.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -404,7 +404,7 @@ export default {
             { id: 'd', texto: 'Clasificar productos.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! Las pruebas del sistema evalúan el funcionamiento general de la solución tecnológica.',
+            'Las pruebas del sistema evalúan el funcionamiento general de la solución tecnológica.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -429,7 +429,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El fraude electrónico es uno de los principales riesgos asociados a las transacciones digitales.',
+            'El fraude electrónico es uno de los principales riesgos asociados a las transacciones digitales.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -457,7 +457,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los mecanismos de autenticación ayudan a proteger la información y los sistemas tecnológicos.',
+            'Los mecanismos de autenticación ayudan a proteger la información y los sistemas tecnológicos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -487,7 +487,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los prestadores de servicio facilitan la comunicación y conectividad en entornos digitales.',
+            'Los prestadores de servicio facilitan la comunicación y conectividad en entornos digitales.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -517,7 +517,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Las pasarelas reconocidas generan confianza y reducen riesgos en las operaciones de pago.',
+            'Las pasarelas reconocidas generan confianza y reducen riesgos en las operaciones de pago.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -534,7 +534,7 @@ export default {
             { id: 'd', texto: 'Ley 590 de 2000.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! La Ley 1581 de 2012 establece las disposiciones generales para la protección de datos personales.',
+            'La Ley 1581 de 2012 establece las disposiciones generales para la protección de datos personales.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -566,7 +566,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Una adecuada gestión del servicio fortalece la satisfacción y fidelización de los clientes.',
+            'Una adecuada gestión del servicio fortalece la satisfacción y fidelización de los clientes.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },

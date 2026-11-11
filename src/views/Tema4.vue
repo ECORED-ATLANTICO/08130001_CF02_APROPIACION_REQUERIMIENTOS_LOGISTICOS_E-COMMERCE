@@ -52,7 +52,7 @@
           |  un cliente paga un pedido utilizando una tarjeta de crédito desde la tienda virtual.
       .tarjeta.tarjeta--blanca.border.shadow.p-4
         .row.justify-content-center.mb-3
-          .col-6
+          .col-5.mb-3
             img(src="@/assets/curso/tema4/img_4.svg", alt="")
         h4.text-center Comercio electrónico
         p.text-center Empresa o plataforma que ofrece productos o servicios y solicita la autorización del pago para completar la transacción.
@@ -102,7 +102,7 @@
     Separador
 
     #t_4_2.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 4.2 Tipos
+      .h2(data-aos="fade-right") 4.2 Tipos de pasarelas de pagos
 
     .bloque-texto-g.bloque-texto-g--inverso.color-terciario-10.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-right")
       .bloque-texto-g__img(
@@ -163,7 +163,7 @@
     Separador
 
     #t_4_3.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 4.3 Operación
+      .h2(data-aos="fade-right") 4.3 Operación de las pasarelas de pago
 
     p.mb-4(data-aos="zoom-in-right") Consiste en una secuencia de actividades que permiten gestionar de forma segura una transacción electrónica entre el cliente, el comercio y la entidad financiera. Desde la selección del producto hasta la confirmación del pago, cada etapa valida la información y protege los datos financieros para garantizar la integridad, confidencialidad y confiabilidad de la operación. La siguiente figura presenta de manera resumida el funcionamiento de una pasarela de pagos durante una compra en el comercio electrónico.
 
@@ -175,7 +175,7 @@
         figure(data-aos="flip-left")
           img(src='@/assets/curso/tema4/img_10.svg', class="img-fluid d-none d-lg-block", alt="La figura describe el funcionamiento de una pasarela de pagos en el comercio electrónico. Presenta seis etapas secuenciales: selección del producto o servicio, elección del medio de pago, envío seguro de la información, validación por la entidad financiera, autorización o rechazo de la transacción y comunicación del resultado al comercio y al cliente. Además, destaca que todo el proceso se realiza en pocos segundos mediante mecanismos de seguridad que protegen la información financiera y garantizan la confiabilidad de la transacción.").mb-5
           img(src='@/assets/curso/tema4/img_11.svg', class="img-fluid d-block d-lg-none", alt="La figura describe el funcionamiento de una pasarela de pagos en el comercio electrónico. Presenta seis etapas secuenciales: selección del producto o servicio, elección del medio de pago, envío seguro de la información, validación por la entidad financiera, autorización o rechazo de la transacción y comunicación del resultado al comercio y al cliente. Además, destaca que todo el proceso se realiza en pocos segundos mediante mecanismos de seguridad que protegen la información financiera y garantizan la confiabilidad de la transacción.").mb-5
-          figcaption Nota. SENA, (2026).
+     
 
     p.mb-4(data-aos="zoom-in-right") La eficiencia en la operación de las pasarelas de pago contribuye a mejorar la experiencia del usuario y a incrementar la confianza en las compras realizadas por medios electrónicos.
 
@@ -290,7 +290,7 @@
             .col-12.col-md-10.col-lg-10
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Se invita al aprendiz a profundizar en pasarelas de pago y soporte transaccional, tal como se muestra en el siguiente artículo:
+                  p.mb-0 Se invita al aprendiz a profundizar en pasarelas de pago y soporte transaccional, tal como se presenta en el siguiente artículo:
                 .col-sm-auto.text-center
                   a.boton.color-acento-botones(href="https://bibliotecadigital.iue.edu.co/server/api/core/bitstreams/ef97a47b-0fc9-4c2d-b21d-747de1849a21/content" target="_blank")
                     span Ir al recurso

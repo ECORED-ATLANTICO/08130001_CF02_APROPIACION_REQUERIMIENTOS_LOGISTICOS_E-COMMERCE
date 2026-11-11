@@ -25,14 +25,13 @@
       .col-8.col-sm-2.col-lg-1.mb-4.mb-lg-0.d-none.d-lg-block(data-aos="fade-up")
         img.img-fluid(src="@/assets/curso/tema5/img_2.svg", alt="")
       .col-12.col-lg-11
-        p.mb-0(data-aos="zoom-in-right") Las pruebas de servicio son procedimientos diseñados para verificar que los servicios, aplicaciones y procesos de una plataforma de comercio electrónico funcionen correctamente antes y durante su operación. Su propósito es identificar errores, validar el cumplimiento de los requerimientos, garantizar la disponibilidad de los servicios y ofrecer una experiencia de compra segura, confiable y eficiente para los usuarios. Entre las principales pruebas tenemos:
+        p.mb-0(data-aos="zoom-in-right") Las pruebas de servicio son procedimientos diseñados para verificar que los servicios, aplicaciones y procesos de una plataforma de comercio electrónico funcionen correctamente antes y durante su operación. Su propósito es identificar errores, validar el cumplimiento de los requerimientos, garantizar la disponibilidad de los servicios y ofrecer una experiencia de compra segura, confiable y eficiente para los usuarios. Entre las principales pruebas se encuentran las siguientes:
 
     .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
         h5 Tabla 3.
         | Diferentes pruebas de servicio 
     .tabla-a.color_primario-20.mb-3(data-aos="zoom-in-right")
       table
-        caption Nota. SENA, (2026).
         thead
           tr
             th Prueba
@@ -177,7 +176,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Las pruebas del sistema corresponden a evaluaciones integrales orientadas a verificar el funcionamiento general de una plataforma tecnológica. Su propósito es asegurar que todos los componentes operen de manera coordinada y cumplan los requerimientos funcionales definidos por la organización.
 
-    p.mt-4.mb-4(data-aos="zoom-in-right") Estas pruebas permiten validar procesos relacionados con autenticación de usuarios, procesamiento de pedidos, integración con pasarelas de pago, generación de reportes y gestión de bases de datos. Entre las más importantes tenemos:
+    p.mt-4.mb-4(data-aos="zoom-in-right") Estas pruebas permiten validar procesos relacionados con autenticación de usuarios, procesamiento de pedidos, integración con pasarelas de pago, generación de reportes y gestión de bases de datos. Entre las principales se encuentran: 
 
     .row.justify-content-center.align-items-center.mb-4
       .col-8.col-lg-6.col-xl-3.mb-4.mb-lg-0(data-aos="fade-up")

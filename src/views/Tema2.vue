@@ -272,7 +272,7 @@
       .col-1.d-none.d-lg-block(data-aos="fade-up")
         img.img-fluid(src="@/assets/curso/tema2/img_20.svg", alt="")
       .col-12.col-lg-11
-        p.mb-0(data-aos="zoom-in-right") Los indicadores clave de desempeño o <em>Key Performance Indicators</em> (KPI) son métricas utilizadas para medir la eficacia de las estrategias de comunicación digital y el cumplimiento de los objetivos organizacionales. Su propósito consiste en proporcionar información objetiva para apoyar la toma de decisiones y promover la mejora continua.
+        p.mb-0(data-aos="zoom-in-right") Los indicadores clave de desempeño o (<em>Key Performance Indicators</em>, KPI) son métricas utilizadas para medir la eficacia de las estrategias de comunicación digital y el cumplimiento de los objetivos organizacionales. Su propósito consiste en proporcionar información objetiva para apoyar la toma de decisiones y promover la mejora continua.
 
     p.mb-5(data-aos="zoom-in-right") Entre los KPI más utilizados en medios digitales se encuentran:
 
@@ -282,7 +282,7 @@
     figure.mb-5(data-aos="flip-left")
       img(src='@/assets/curso/tema2/img_21.svg', class="img-fluid d-none d-lg-block", alt="La figura muestra de manera circular los indicadores clave de desempeño (KPI) aplicados a las estrategias de medios y comunicación digital en el e-commerce. Está organizada de acuerdo a seis indicadores: número de visitas al sitio web, tasa de conversión, alcance de publicaciones, nivel de interacción, costo por adquisición de clientes y porcentaje de apertura de correos electrónicos. Cada uno presenta una breve explicación y un ejemplo práctico, mostrando cómo evaluar el rendimiento de las acciones de comunicación digital para apoyar la toma de decisiones y el cumplimiento de los objetivos comerciales.").mb-5
       img(src='@/assets/curso/tema2/img_22.svg', class="img-fluid d-block d-lg-none", alt="La figura muestra de manera circular los indicadores clave de desempeño (KPI) aplicados a las estrategias de medios y comunicación digital en el e-commerce. Está organizada de acuerdo a seis indicadores: número de visitas al sitio web, tasa de conversión, alcance de publicaciones, nivel de interacción, costo por adquisición de clientes y porcentaje de apertura de correos electrónicos. Cada uno presenta una breve explicación y un ejemplo práctico, mostrando cómo evaluar el rendimiento de las acciones de comunicación digital para apoyar la toma de decisiones y el cumplimiento de los objetivos comerciales.").mb-5
-      figcaption Nota. SENA, (2026).
+   
 
     .row.justify-content-center.align-items-center.mb-4
       .col-12.col-lg-10.mb-0
@@ -306,7 +306,7 @@
             .col-12.col-md-10.col-lg-10
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Se invita al aprendiz a profundizar en lo relacionado a estrategias de medios y comunicación digital, a través del siguiente libro (páginas 11 - 24):
+                  p.mb-0 Se invita al aprendiz a profundizar en lo relacionado a estrategias de medios y comunicación digital, a través del siguiente libro (páginas 11-24):
                 .col-sm-auto.text-center
                   a.boton.color-acento-botones(href="https://8982035.fs1.hubspotusercontent-na1.net/hubfs/8982035/Publicaciones/documentos/publico/Libro-Blanco-de-Marketing-para-eCommerce.pdf" target="_blank")
                     span Ir al recurso

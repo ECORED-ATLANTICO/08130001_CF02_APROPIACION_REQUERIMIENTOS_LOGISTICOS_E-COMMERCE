@@ -13,7 +13,7 @@
           figure
             img.img-fluid(src="@/assets/curso/tema3/img_1.svg", alt="")
         .col-12.col-lg-11
-          p.mb-0 La transformación digital ha incrementado significativamente el volumen de información que las organizaciones recopilan, almacena y procesan diariamente. En este contexto, la protección de datos y la seguridad digital se convierten en factores esenciales para garantizar la confidencialidad, integridad y disponibilidad de la información, así como para fortalecer la confianza de los usuarios en los servicios digitales.
+          p.mb-0 La transformación digital ha incrementado significativamente el volumen de información que las organizaciones recopilan, almacenan y procesan diariamente. En este contexto, la protección de datos y la seguridad digital se convierten en factores esenciales para garantizar la confidencialidad, integridad y disponibilidad de la información, así como para fortalecer la confianza de los usuarios en los servicios digitales.
 
     Separador
 
@@ -55,14 +55,14 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 La gestión de datos personales se encuentra regulada por diversas disposiciones legales que establecen derechos, obligaciones y responsabilidades para las organizaciones que recopilan y procesan información. Estas normas buscan garantizar la privacidad de los usuarios, proteger sus derechos y promover el tratamiento responsable de la información por parte de las organizaciones.
 
-    p.mb-4(data-aos="zoom-in-right") A continuación, se relacionan las principales leyes que hacen parte de esta normativa:
+    p.mb-4(data-aos="zoom-in-right") A continuación, se relacionan algunas de las principales disposiciones normativas aplicables:
 
     .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
         h5 Tabla 2.
-        | Normatividad legal en temas de protección de datos
+        | Normatividad sobre protección de datos y comercio electrónico
     .tabla-a.color_primario-20.mb-5(data-aos="zoom-in-right")
       table
-        caption Nota. SENA, (2026).
+        
         thead
           tr
             th Norma
@@ -108,50 +108,50 @@
         .tarjeta.tarjeta--fondo-img-01.p-2.p-md-4.px-3.p-lg-4.p-xl-5.mb-3(data-aos="zoom-in-right")
           .tarjeta.tarjeta--blanca.mb-0
             SlyderA.py-4.px-3(tipo="a")
-              .py-3.px-4.p-md-4.p-lg-3.p-xl-4
+              .py-3.px-4.p-md-4.p-lg-3.p-xl-5
                 h3.h5 Acceso no autorizado
                 p.mb-0 Consiste en ingresar a sistemas, cuentas o plataformas sin el permiso del propietario para consultar, modificar o extraer información.
                 p.mb-0
                   strong Ejemplo:
                   |  un ciberdelincuente accede al panel administrativo de una tienda virtual utilizando credenciales robadas.
-              .py-3.px-4.p-md-4.p-lg-3.p-xl-4
+              .py-3.px-4.p-md-4.p-lg-3.p-xl-5
                 h3.h5 Suplantación de identidad
                 p.mb-0 Ocurre cuando una persona utiliza la identidad o los datos de otra para realizar transacciones o acceder a servicios de forma fraudulenta.
                 p.mb-0
                   strong Ejemplo:
                   |  un atacante utiliza los datos personales de un cliente para realizar compras en línea.
-              .py-3.px-4.p-md-4.p-lg-3.p-xl-4
+              .py-3.px-4.p-md-4.p-lg-3.p-xl-5
                 h3.h5 <em>Phishing</em>
                 p.mb-0 Técnica de engaño que busca obtener información confidencial mediante correos electrónicos, mensajes o sitios web que simulan ser legítimos.
                 p.mb-0
                   strong Ejemplo:
                   |  un cliente recibe un correo falso que imita a la tienda virtual y solicita actualizar sus datos bancarios.
-              .py-3.px-4.p-md-4.p-lg-3.p-xl-4
-                h3.h5 <em>Malware</em>
+              .py-3.px-4.p-md-4.p-lg-3.p-xl-5
+                h3.h5 Tipos de <em>Malware</em>
                 p.mb-0 Son programas maliciosos diseñados para dañar equipos, robar información o alterar el funcionamiento de sistemas informáticos.
                 p.mb-0
                   strong Ejemplo:
                   |  un archivo descargado desde un enlace fraudulento instala un programa que captura las credenciales de acceso del usuario.
-              .py-3.px-4.p-md-4.p-lg-3.p-xl-4
+              .py-3.px-4.p-md-4.p-lg-3.p-xl-5
                 h3.h5 Fraude informático
-                p.mb-0 Manipular sistemas o información para obtener beneficios económicos de manera ilegal durante una transacción electrónica.
+                p.mb-0 Consiste en manipular sistemas o información para obtener beneficios económicos de manera ilegal durante una transacción electrónica.
                 p.mb-0
                   strong Ejemplo:
                   |  un atacante modifica el valor de una transacción para pagar un monto inferior al precio real del producto.
-              .py-3.px-4.p-md-4.p-lg-3.p-xl-4
+              .py-3.px-4.p-md-4.p-lg-3.p-xl-5
                 h3.h5 Interceptación de datos
                 p.mb-0 Es el proceso de capturar o acceder de forma ilegal a la información transmitida entre usuarios y plataformas digitales.
                 p.mb-0
                   strong Ejemplo:
                   |  un ciberdelincuente intercepta la información enviada durante un proceso de pago en una red no segura.
-              .py-3.px-4.p-md-4.p-lg-3.p-xl-4
+              .py-3.px-4.p-md-4.p-lg-3.p-xl-5
                 h3.h5 Alteración o destrucción de información
                 p.mb-0 Comprende la modificación, eliminación o daño de datos almacenados en sistemas de información sin autorización.
                 p.mb-0
                   strong Ejemplo:
                   |  un atacante elimina el registro de pedidos almacenados en la base de datos de una tienda virtual.
-              .py-3.px-4.p-md-4.p-lg-3.p-xl-4
-                h3.h5 Ataques de denegación de servicio (DoS / DDoS)
+              .py-3.px-4.p-md-4.p-lg-3.p-xl-5
+                h3.h5 Ataques de denegación de servicio (DoS/DDoS)
                 p.mb-0 Buscan saturar un sistema o servidor para impedir el acceso de los usuarios y afectar la disponibilidad del servicio.
                 p.mb-0
                   strong Ejemplo:
@@ -235,7 +235,7 @@
             .col-12.col-lg-10.mb-0
               p.mb-0
                 strong Ejemplo:
-                |  algunas compañías implementan medidas de autenticación y seguridad de Google a través de la solución de Google Cloud, la cual verifica quien está intentando acceder (el usuario o la aplicación) y determina qué recursos puede utilizar y qué acciones puede realizar una vez verificada su identidad.
+                |  algunas compañías implementan medidas de autenticación y seguridad de Google a través de la solución de Google Cloud, la cual verifica quién está intentando acceder (el usuario o la aplicación) y determina qué recursos puede utilizar y qué acciones puede realizar una vez verificada su identidad.
             .col-12.col-lg-2.d-none.d-lg-block.mb-0
               figure
                 img(src="@/assets/curso/tema1/img_4.png", class="img-fluid", alt="")

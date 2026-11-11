@@ -267,12 +267,12 @@ export default {
     {
       termino: 'Comercio electrónico',
       significado:
-        'Compra y venta de productos o servicios mediante plataformas digitales.',
+        'Actividad comercial que comprende la compra y venta de bienes o servicios mediante medios o plataformas electrónicas.',
     },
     {
       termino: 'Delito informático',
       significado:
-        'Acción ilícita realizada mediante sistemas informáticos o redes digitales.',
+        'Conducta ilícita realizada mediante sistemas informáticos o redes digitales.',
     },
     {
       termino: 'Facturación electrónica',
@@ -367,6 +367,11 @@ export default {
   ],
   referencias: [
     {
+      referencia:
+        'Asociación Mexicana de Venta Online. (2022). Libro blanco de marketing para eCommerce (2.ª ed.). ',
+      link: 'https://8982035.fs1.hubspotusercontent-na1.net/hubfs/8982035/Publicaciones/documentos/publico/Libro-Blanco-de-Marketing-para-eCommerce.pdf',
+    },
+    {
       referencia: 'Banco de la República. (2021). Pasarelas de pago.',
       link: 'https://www.banrep.gov.co/es/node/40991',
     },
@@ -374,6 +379,26 @@ export default {
       referencia:
         'Betancur, C. (2021). Comparación de pasarelas de pago en Colombia. BTODigital.',
       link: 'https://btodigital.com/comparacion-de-pasarelas-de-pago-en-colombia/',
+    },
+    {
+      referencia:
+        'Campuzano, J. C., Castro, H. H., & Figueroa, A. (2021). Libro blanco del comercio electrónico Colombia: Una guía adaptada a las necesidades de las MiPymes colombianas. Universidad EAN; Ministerio de Tecnologías de la Información y las Comunicaciones. ',
+      link: 'https://colombiatic.mintic.gov.co/679/articles-197363_recurso_1.pdf',
+    },
+    {
+      referencia:
+        'Comunidad Woocommerce Bogotá. (2020). Pasarelas de pago en el e-commerce [Video]. YouTube. ',
+      link: 'https://www.youtube.com/watch?v=XfAEts0DCdI',
+    },
+    {
+      referencia:
+        'De la Cruz López, A., & Martínez de Escobar Fernández, A. (2024). La satisfacción del cliente en el comercio electrónico. Gestión, 2(2).',
+      link: 'https://revistap.ejeutap.edu.co/index.php/Gestion/article/view/148',
+    },
+    {
+      referencia:
+        'Escuela Judicial Rodrigo Lara Bonilla. (2020, 11 de diciembre). Ley de comercio electrónico [Video]. YouTube. ',
+      link: 'https://www.youtube.com/watch?v=TPyJIfK1NT4',
     },
     {
       referencia:
@@ -397,8 +422,18 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Tecnologías de la Información y las Comunicaciones. (2020). Resolución 202 de 2010.',
-      link: 'https://normograma.mintic.gov.co/mintic/docs/resolucion_mintic_0202_2010.htm',
+        'Ministerio de Tecnologías de la Información y las Comunicaciones. (2020). Resolución 202 de 2010. ',
+      link: 'https://normograma.mintic.gov.co/mintic/compilacion/docs/resolucion_mintic_0202_2010.htm',
+    },
+    {
+      referencia:
+        'Montilla Buitrago, H. Y. (2024). Infraestructura tecnológica y logística, aspectos legales del e-commerce. Corporación Universitaria de Asturias. ',
+      link: 'https://www.centro-virtual.com/recursos/biblioteca/pdf/e-commerce/unidad2_pdf1.pdf',
+    },
+    {
+      referencia:
+        'Montoya Correa, E. (2023). ¿Cómo mejorar los procesos logísticos del e-commerce mediante click and collect? Institución Universitaria de Envigado. ',
+      link: 'https://bibliotecadigital.iue.edu.co/handle/20.500.12717/3032',
     },
     {
       referencia:
@@ -406,8 +441,18 @@ export default {
       link: '',
     },
     {
-      referencia: 'Ortega, L. (2015). E-commerce y pago seguro.',
-      link: 'https://docplayer.es/17430090-E-commerce-y-pago-seguro.html',
+      referencia: 'Ortega, L. (2015). E-commerce y pago seguro. ',
+      link: 'https://e-archivo.uc3m.es/rest/api/core/bitstreams/b74e2f04-813d-4caf-a4bc-8557b3873066/content',
+    },
+    {
+      referencia:
+        'Pinilla, González & Prieto Abogados. (2020, 23 de junio). Comercio electrónico: Protección de datos y seguridad de la información [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=_sjIHKMeeeg',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (2025). Estrategia Nacional de Seguridad Digital de Colombia 2025-2027.  ',
+      link: 'https://www.mintic.gov.co/portal/715/articles-403023_recurso_2.pdf',
     },
   ],
   creditos: [

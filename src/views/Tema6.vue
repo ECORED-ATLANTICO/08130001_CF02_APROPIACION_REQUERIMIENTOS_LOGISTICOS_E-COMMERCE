@@ -85,7 +85,7 @@
                   strong Ejemplo:
                   |  durante un ataque de denegación de servicio (DDoS), los clientes no pueden completar el pago de sus compras.
 
-    p.mb-3(data-aos="zoom-in-right") La identificación y evaluación de riesgos permite a las organizaciones implementar controles preventivos y fortalecer los mecanismos de protección asociados a las transacciones electrónicas.
+    p.mb-3(data-aos="zoom-in-right") La identificación y evaluación de riesgos permiten a las organizaciones implementar controles preventivos y fortalecer los mecanismos de protección asociados a las transacciones electrónicas.
     p.mb-4(data-aos="zoom-in-right") Cuando un ciberdelincuente intenta obtener información bancaria mediante correos electrónicos falsos, se presenta un riesgo de fraude que puede afectar tanto al usuario como a la organización.
 
     .row.justify-content-center.align-items-center.mb-0
@@ -112,7 +112,7 @@
         | Diferentes sistemas de protección
     .tabla-a.color_primario-20.mb-5(data-aos="zoom-in-right")
       table
-        caption Nota. SENA, (2026).
+        
         thead
           tr
             th Sistema de protección
@@ -190,16 +190,15 @@
         aria-label=""
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Son las disposiciones legales que regulan la realización de operaciones comerciales mediante medios digitales. Estas normas establecen los requisitos para garantizar la validez jurídica de las transacciones, la protección de la información, la seguridad de los pagos y los derechos de consumidores y comerciantes en el comercio electrónico; además de proteger a consumidores, empresas y entidades participantes en los procesos de comercio electrónico.
+        p.mb-0 La normativa aplicable comprende las disposiciones legales que regulan la realización de operaciones comerciales mediante medios digitales. Estas normas establecen los requisitos para garantizar la validez jurídica de las transacciones, la protección de la información, la seguridad de los pagos y los derechos de consumidores y comerciantes en el comercio electrónico; además de proteger a consumidores, empresas y entidades participantes en los procesos de comercio electrónico.
 
-    p.mb-4(data-aos="zoom-in-right") En Colombia, la normatividad que aplica para este tipo de actividades son las siguientes:
+    p.mb-4(data-aos="zoom-in-right") En Colombia, las disposiciones normativas aplicables a este tipo de actividades son las siguientes:
 
     .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
         h5 Tabla 5.
         | Normatividad en transacciones electrónicas
     .tabla-a.color_primario-20.mb-5(data-aos="zoom-in-right")
       table
-        caption Nota. SENA, (2026).
         thead
           tr
             th Norma
@@ -207,7 +206,7 @@
             th Aplicación en <em>e-commerce</em>
         tbody
           tr
-            td Constitución Política de Colombia (1991)
+            td Artículo 15. Constitución Política de Colombia (1991) 
             td Reconoce derechos fundamentales como la intimidad, el <em>hábeas data</em> y la protección de la información personal en medios físicos y digitales.
             td Un cliente puede solicitar la actualización o eliminación de sus datos personales registrados en una tienda virtual.
           tr
@@ -251,7 +250,7 @@
             .col-12.col-md-10.col-lg-10
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 A continuación, se invita a consultar el siguiente video para fortalecer los conocimientos relacionados con protección de transacciones financieras y cumplimiento normativo:
+                  p.mb-0 A continuación, se invita a consultar el video para fortalecer los conocimientos relacionados con protección de transacciones financieras y cumplimiento normativo:
                 .col-sm-auto.text-center
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=TPyJIfK1NT4" target="_blank")
                     span Ir al recurso
@@ -266,7 +265,7 @@
             .col-12.col-md-10.col-lg-10
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Se invita al aprendiz a profundizar en protección de transacciones financieras y cumplimiento normativo, a través del siguiente libro (páginas 207 - 211):
+                  p.mb-0 Se invita al aprendiz a profundizar en protección de transacciones financieras y cumplimiento normativo, a través del siguiente libro (páginas 207-211):
                 .col-sm-auto.text-center
                   a.boton.color-acento-botones(href="https://colombiatic.mintic.gov.co/679/articles-197363_recurso_1.pdf" target="_blank")
                     span Ir al recurso
