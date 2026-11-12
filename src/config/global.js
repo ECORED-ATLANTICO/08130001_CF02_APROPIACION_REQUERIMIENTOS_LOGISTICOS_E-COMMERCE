@@ -135,12 +135,12 @@ export default {
           },
           {
             numero: '4.2',
-            titulo: 'Tipos',
+            titulo: 'Tipos de pasarelas de pagos',
             hash: 't_4_2',
           },
           {
             numero: '4.3',
-            titulo: 'Operación',
+            titulo: 'Operación de las pasarelas de pago',
             hash: 't_4_3',
           },
           {
